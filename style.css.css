@@ -1,0 +1,29 @@
+body { 
+    font-family: verdana;
+    font-size: 30x;
+}
+header {
+    background-color: blue;
+}
+nav {
+    background-color: lightblue;
+}
+main {
+    background-color: white;
+    font-size: 30x;
+}
+footer{
+    background-color: blue;
+}
+li {
+    display: inline;
+    width: 50%;
+}
+h1 {
+    text-align: center;
+    font-family: courier; 
+    color: black;
+}
+p{
+    height: 100px;
+}
